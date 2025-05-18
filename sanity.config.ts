@@ -20,7 +20,7 @@ import Logo from './components/Logo'
 // const dataset = process.env.NEXT_PUBLIC_SANITY_DATASET!;
 
 export default defineConfig({
-  basePath: '/admin/studio',
+  basePath: '/studio',
   // title:'sanity_studi',
   // name:"sanity content studio",
   projectId,
